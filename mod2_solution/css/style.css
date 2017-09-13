@@ -1,0 +1,93 @@
+*{
+	font-family: Verdana, Geneva, sans-serif;
+	box-sizing: border-box;
+}
+
+h1{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.row{
+	width: 100%;
+}
+
+.Menu{
+	background-color: gray;
+	border: 2px solid black;
+	margin-right: 10px;
+	margin-left: 10px;
+	position: relative;
+}
+
+.Chicken{
+	background-color: red;
+}
+
+.Sushis{
+	background-color: blue;
+}
+
+.Beef{
+	background-color: yellow;
+}
+
+.Chicken,.Sushis,.Beef{
+	font-weight: bold;
+	border: 2px solid;
+	text-align: center;
+	width: 140px;
+	position: absolute;
+	top: -18px;
+	right: -2px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+@media(min-width: 992px){
+	.Col-Lg-3{
+		width: 29.33%;
+		float: left;
+		margin-right: 2%;
+		padding-left: 2%;
+		margin-bottom: 2%;
+		padding-top: 25px;
+		margin-left: 2%;
+	}
+
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+	.Col-Md-2{
+		width: 46%;
+		float: left;
+		margin-right: 2%;
+		padding-left: 2%;
+		margin-bottom: 2%;
+		padding-top: 25px;
+		margin-left: 2%;
+		}
+
+	.Col-Md-1{
+		width: 96%;
+		float: left;
+		margin-right: 2%;
+		padding-left: 2%;
+		margin-bottom: 2%;
+		padding-top: 25px;
+		margin-left: 2%;
+		}
+}
+
+@media(max-width: 767px){
+	.Col-Sm-1{
+		width: 88%;
+		float: left;
+		margin-right: 2%;
+		padding-left: 2%;
+		margin-bottom: 2%;
+		padding-top: 25px;
+		margin-left: 2%;
+		}
+}
