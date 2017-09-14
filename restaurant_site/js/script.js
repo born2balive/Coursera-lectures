@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>fullstack-course4/npm.js at master · jhu-ep-coursera/fullstack-course4</title>
+  <title>fullstack-course4/script.js at master · jhu-ep-coursera/fullstack-course4</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -36,10 +36,10 @@
     <meta content="https://avatars0.githubusercontent.com/u/13573168?v=4&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="jhu-ep-coursera/fullstack-course4" property="og:title" /><meta content="https://github.com/jhu-ep-coursera/fullstack-course4" property="og:url" /><meta content="fullstack-course4 - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjA1MTE3MjI4Ojg4ZDIxMjU2YmU1OGMwYjI5MTkwOWRhZTA4Mjk2MTMyODRlNzk0YWUxOThjMDE0MDRlNzZlMzIyNTAyMjc1YzU=--0060d46e52bb87c081f2e9a84a86fd9c78b0b574">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjA1MTE3MjI4OjYxODZmOTI0YWRhYTQ3ZmZlMDA5Y2VmOTIxNWMwMGY3ZjYyOWVmYmQyOWFmOTIxMDU5ZjM3YTc0NjY2ZDI2MmM=--c9565cc5adcc85bc0f15403718b73e90b6d7e8a2">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="F57F:069B:EB7749:1AE0FE7:59BA3BF6" data-pjax-transient>
+  <meta name="request-id" content="F578:069D:145590D:245E5FA:59BA3BE7" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="F57F:069B:EB7749:1AE0FE7:59BA3BF6" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="31885701" name="octolytics-actor-id" /><meta content="born2balive" name="octolytics-actor-login" /><meta content="b3927daa45470114cae8210e94bf9a813927e0b3c377b807661db0b729aee925" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="F578:069D:145590D:245E5FA:59BA3BE7" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="31885701" name="octolytics-actor-id" /><meta content="born2balive" name="octolytics-actor-login" /><meta content="b3927daa45470114cae8210e94bf9a813927e0b3c377b807661db0b729aee925" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,7 +63,7 @@
   <meta name="user-login" content="born2balive">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MjI0MThmYzgyOThhZDU3NmNjNjdlNzZkMDlkMTdlYTk4NGQzMTMzOGMxMjBlMmM2N2Y0YjBjYWQ2MDVjOTM5M3x7InJlbW90ZV9hZGRyZXNzIjoiMTc2LjE4Ni4xNzkuMjUwIiwicmVxdWVzdF9pZCI6IkY1N0Y6MDY5QjpFQjc3NDk6MUFFMEZFNzo1OUJBM0JGNiIsInRpbWVzdGFtcCI6MTUwNTM3NzI3OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="OGQ1MTVlMmUyNjE3M2Y3ZTlmYTNjOTc1MmRmNTRlMGYzMjFkMDhjYjZiMzQ3N2I0NTNkMzY0MDQ0NWE4ZjQyM3x7InJlbW90ZV9hZGRyZXNzIjoiMTc2LjE4Ni4xNzkuMjUwIiwicmVxdWVzdF9pZCI6IkY1Nzg6MDY5RDoxNDU1OTBEOjI0NUU1RkE6NTlCQTNCRTciLCJ0aW1lc3RhbXAiOjE1MDUzNzcyNTYsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER">
 
@@ -80,7 +80,7 @@
   <meta content="13573168" name="octolytics-dimension-user_id" /><meta content="jhu-ep-coursera" name="octolytics-dimension-user_login" /><meta content="51732606" name="octolytics-dimension-repository_id" /><meta content="jhu-ep-coursera/fullstack-course4" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="51732606" name="octolytics-dimension-repository_network_root_id" /><meta content="jhu-ep-coursera/fullstack-course4" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture30/before/js/npm.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture30/before/js/script.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -127,7 +127,7 @@
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/search" class="js-site-search-form" data-scoped-search-url="/jhu-ep-coursera/fullstack-course4/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture30/before/js/npm.js" class="header-search-scope no-underline">This repository</a>
+        <a href="/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture30/before/js/script.js" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -250,7 +250,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lOqdGN3pRMvHsaByGlYLPQJcZPd8h+uKgL2j+G2IH7t7IcHqHnkR4d26HmsKgp/Zsm/PAI3hJXaNakhxgy0gcQ==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mqDANDc3sfOf+JZYIvtNfBGAHHjmmXJ+ShStGzC073B1a5zG9Kfk2YXzKEEyL9mYobO3jxf/vIJHw0aS3hHQug==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -261,7 +261,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="PRdIghYtQ8A/oMAwepAKohelcba9Cs4AIJ93JKy3gDDS3BRw1b0W6iWrfilqRJ5Gp5baQUxsAPwtSJytQhK/+g==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GsHrd8lyRSrYgveKwZQ+lT4VpZLQTDSAugXhVoyyj2X1CreFCuIQAMKJSZPRQKpxjiYOZSEq+ny30grfYhewrw==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -298,7 +298,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="CoDzFYVpLA1c9aXCgI8aEsqOf7C+W3oJ+E8TQzgKXBuH/e1NOq6G3bJ8SACJ2bHs0X+iY5c5en/KL3tITLJKAA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="51732606" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8vrPoYm6zOJs2zg1fxl/S7ISEBm1uluptAbMmo2QEfx/h9H5Nn1mMoJS1fd2T9S1qePNypzYW9+GZqSR+SgH5w==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="51732606" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/jhu-ep-coursera/fullstack-course4/subscription"
@@ -378,7 +378,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6vpcVE5gBG/5tJWZkLHOsjk5y/JwYfmuEusxeHlanDsdx+5m6hqRp1xkbG5LWkZcA4FDhvzFyMBUPcIfjgBT9g==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="34tb0BWTzljzy1e0NfE9X5kKoQsfTgXjhTusY+ZYIiQotuniselbkFYbrkPuGrWxo7Ipf5PqNI3D7V8EEQLt6Q==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -392,7 +392,7 @@
           1,011
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qWi/SW+vzodiYfe6RWRyFdTQUpmxRK5tg+HK+S2/cxqJkcYxj0auhjFvJ0U4v6c9SDTjjpk05idenRvmdeWjLw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LGB+yhjM7u0NRbQfs/y1A5L5aw5mv87NN2HJTiN4WvEMmQey+CWO7F5LZODOJ2ArDh3aGU7PhofqHRhReyKKxA==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -410,7 +410,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="A57Q/ht+qyAlfxKo+0gXvG+pLbUlnqQBt/eQvLsQrBvKoBcCePd+JaRcJhChf2LFNRu98WABa564rQdHsQTZAw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="oCD/1mEHBgOvw4CAAyA0pf7zHOZqh9vqDgn6fM2voS9pHjgqAo7TBi7gtDhZF0HcpEGMoi8YFHUBU22Hx7vUNw==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -505,9 +505,9 @@
   <div class="repository-content">
 
     
-  <a href="/jhu-ep-coursera/fullstack-course4/blob/57f943b4e3405f277c2fcb147bbfaa6c48f445d1/examples/Lecture30/before/js/npm.js" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/jhu-ep-coursera/fullstack-course4/blob/57f943b4e3405f277c2fcb147bbfaa6c48f445d1/examples/Lecture30/before/js/script.js" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:ca7587b26422b3f1e9cbbe730cfb0f8f -->
+  <!-- blob contrib key: blob_contributors:v21:0892db2d7d10185814f5206006263f96 -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -549,7 +549,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/jhu-ep-coursera/fullstack-course4/blob/fixes/examples/Lecture30/before/js/npm.js"
+               href="/jhu-ep-coursera/fullstack-course4/blob/fixes/examples/Lecture30/before/js/script.js"
                data-name="fixes"
                data-skip-pjax="true"
                rel="nofollow">
@@ -559,7 +559,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/jhu-ep-coursera/fullstack-course4/blob/gh-pages/examples/Lecture30/before/js/npm.js"
+               href="/jhu-ep-coursera/fullstack-course4/blob/gh-pages/examples/Lecture30/before/js/script.js"
                data-name="gh-pages"
                data-skip-pjax="true"
                rel="nofollow">
@@ -569,7 +569,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture30/before/js/npm.js"
+               href="/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture30/before/js/script.js"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -606,12 +606,12 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4"><span>fullstack-course4</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/examples"><span>examples</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture30"><span>Lecture30</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture30/before"><span>before</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture30/before/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">npm.js</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4"><span>fullstack-course4</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/examples"><span>examples</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture30"><span>Lecture30</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture30/before"><span>before</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture30/before/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">script.js</strong>
     </div>
   </div>
 
 
-  <include-fragment class="commit-tease" src="/jhu-ep-coursera/fullstack-course4/contributors/master/examples/Lecture30/before/js/npm.js">
+  <include-fragment class="commit-tease" src="/jhu-ep-coursera/fullstack-course4/contributors/master/examples/Lecture30/before/js/script.js">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -627,9 +627,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/jhu-ep-coursera/fullstack-course4/raw/master/examples/Lecture30/before/js/npm.js" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/jhu-ep-coursera/fullstack-course4/blame/master/examples/Lecture30/before/js/npm.js" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/jhu-ep-coursera/fullstack-course4/commits/master/examples/Lecture30/before/js/npm.js" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/jhu-ep-coursera/fullstack-course4/raw/master/examples/Lecture30/before/js/script.js" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/jhu-ep-coursera/fullstack-course4/blame/master/examples/Lecture30/before/js/script.js" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/jhu-ep-coursera/fullstack-course4/commits/master/examples/Lecture30/before/js/script.js" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -639,12 +639,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/edit/master/examples/Lecture30/before/js/npm.js" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VEPnJ2186smo5TGZZi5cbhUer5tyCh5HjyMB+ykwmIURIqJmrkTISGXhXmwBg0Oh1sAQlSntWIDNDoEcEP0Jew==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/edit/master/examples/Lecture30/before/js/script.js" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="tNUWcbk2Y9ZkvFidtfdYXoOK6oLbBWrJSuJoFaMTd4/8avaEyauIdyOC5Esd3Rbpwgc4RG0FK2ODMv31xcJX2w==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/delete/master/examples/Lecture30/before/js/npm.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FuGpfOo7XkPi+EM0FawZMjjY9dhLfAyknccxDJWD5vH1ZpJbGcUemgM3EXl2kRgLLhcBYhyoA+EXQ4kc+bPGYQ==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jhu-ep-coursera/fullstack-course4/delete/master/examples/Lecture30/before/js/script.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6pFJzKgndfb9G7v3dtXxioZbWiQW+F/uG2/BrB5XpkI92LH6S78Z6pJZ6ygwkGixvx61DFHcvUJiGbjCb9Yilw==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -652,68 +652,16 @@
 </form>  </div>
 
   <div class="file-info">
-      13 lines (13 sloc)
+      0 lines (0 sloc)
       <span class="file-info-divider"></span>
-    484 Bytes
+    0 Bytes
   </div>
 </div>
 
     
 
-  <div itemprop="text" class="blob-wrapper data type-javascript">
+  <div itemprop="text" class="blob-wrapper data type-text">
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
-      <tr>
-        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">//</span> This file is autogenerated via the `commonjs` Grunt task. You can require() this file in a CommonJS environment.</span></td>
-      </tr>
-      <tr>
-        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/transition.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/alert.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/button.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/carousel.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/collapse.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/dropdown.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/modal.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/tooltip.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/popover.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/scrollspy.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/tab.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
-      <tr>
-        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>../../js/affix.js<span class="pl-pds">&#39;</span></span>)</td>
-      </tr>
 </table>
 
   <div class="BlobToolbar position-absolute js-file-line-actions dropdown js-menu-container js-select-menu d-none" aria-hidden="true">
@@ -730,7 +678,7 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
         <li><a class="js-zeroclipboard dropdown-item" style="cursor:pointer;" id="js-copy-lines" data-original-text="Copy lines">Copy lines</a></li>
         <li><a class="js-zeroclipboard dropdown-item" id= "js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</a></li>
-        <li><a href="/jhu-ep-coursera/fullstack-course4/blame/57f943b4e3405f277c2fcb147bbfaa6c48f445d1/examples/Lecture30/before/js/npm.js" class="dropdown-item js-update-url-with-hash" id="js-view-git-blame">View git blame</a></li>
+        <li><a href="/jhu-ep-coursera/fullstack-course4/blame/57f943b4e3405f277c2fcb147bbfaa6c48f445d1/examples/Lecture30/before/js/script.js" class="dropdown-item js-update-url-with-hash" id="js-view-git-blame">View git blame</a></li>
           <li><a href="/jhu-ep-coursera/fullstack-course4/issues/new" class="dropdown-item" id="js-new-issue">Open new issue</a></li>
       </ul>
     </div>
@@ -760,7 +708,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2017 <span title="0.19006s from unicorn-2892867074-szr3t">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2017 <span title="0.23036s from unicorn-2259461617-s4q5k">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
