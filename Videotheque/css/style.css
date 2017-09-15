@@ -57,7 +57,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid rgb(26,26,26);
 }
 
 .navbar-header button.navbar-toggle {
@@ -149,4 +149,9 @@ body {
 		display: block !important;
 	}
 	/*end header*/
+
+h2 {
+		font-size: 5vw; /*1vw = 1% of viewport width*/
+	}
+
 }
