@@ -61,15 +61,16 @@ body {
 	font-weight: bold;
 }
 
-.each-menu {
+#sect-chicken, #sect-beef, #sect-sushi {
 	margin-top: 35px;
+	margin-right: 10px;
+	margin-left: 10px;
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-bottom: 15px;
 	background-color: #bbcaed;
 }
 
-}
 
 /*Home page - end main content*/
 
@@ -82,34 +83,29 @@ body {
 /*medium devices only*/
 @media (min-width: 992px)  {
 	/*header*/
-	#header-nav {
-		border-bottom: 2px solid #16264c;
-	}
+
 	/*end header*/
 
 	/*Home page main content*/
-	#home-menu {
-		padding-left: 100px;
-		padding-right: 100px;
-	}	/*Home page - end main content*/
+ #sect-chicken, #sect-beef, #sect-sushi {
+		width: 31%;
+}
+	/*Home page - end main content*/
 
 }
 
 /*Small devices only*/
 @media (min-width: 768px) and (max-width: 991px) {
 	/*header*/
-	#header-nav {
-		border-bottom: 2px solid #16264c;
-	}
+
 
 	
 /*end header*/
 
 	/*Home page main content*/
-#home-menu {
-	padding-left: 70px;
-	padding-right: 70px;
-}	
+#sect-chicken, #sect-beef, #sect-sushi {
+		width: 47%;
+}
 
 }
 
