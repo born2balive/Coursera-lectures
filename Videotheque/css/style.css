@@ -13,10 +13,10 @@ body {
 }
 
 #logo-img {
-	background: url('../images/icone-video-2.png') no-repeat;
-	width: 100px;
-	height: 100px;
-	margin: 10px 15px 10px 0;
+	background: url("../images/icone-video-2.png") no-repeat;
+	width: 70px;
+	height: 70px;
+	margin: 5px 5px 5px 0;
 }
 
 .navbar-brand {
@@ -60,11 +60,49 @@ body {
   border: 1px solid rgb(26,26,26);
 }
 
-.navbar-header button.navbar-toggle {
- 	clear: both;
- 	margin-top: -30px;
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+/*END OF HEADER*/
+
+
+/*FOOTER*/
+.panel-footer {
+	margin-top: 30px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background-color: #222;
+	border-top: 0;
 }
 
+.panel-footer div.row {
+	margin-bottom: 35px;
+}
+/*END OF FOOTER*/
+
+#mieux-notes, #a-regarder {
+	height: 250px;
+	width: 100%;
+	margin-bottom: 15px;
+	position: relative;
+	border: 2px solid #3F0C1F;
+	overflow: hidden;
+	border-radius: 6px;
+}
+
+#mieux-notes span, #a-regarder span {
+  	position: absolute;
+  	top: 0;
+  	right: 0;
+  	padding-left: 10px;
+  	width: 100%;
+  	text-align: left;
+  	font-size: 1.2em;
+  	text-transform: uppercase;
+  	background-color: #000;
+  	color: #fff;
+  	opacity: .7;
+}
 /*large devices only*/
 @media (min-width: 1200px) {
 	/*header*/
@@ -81,13 +119,6 @@ body {
 /*medium devices only*/
 @media (min-width: 992px) and (max-width: 1199px) {
 	/*header*/
-	#logo-img {
-		background: url("../images/icone-video-2.png") no-repeat;
-		width: 70px;
-		height: 70px;
-		margin: 5px 5px 5px 0;
-	}
-
 	.desktop-only {
 		display: block !important;
 	}
@@ -119,8 +150,8 @@ body {
 	}
 
 	.navbar-brand h1 {
-		padding-top: 10px;
-		font-size: 5vw; /*1vw = 1% of viewport width*/
+		padding-top: 8px; /*1vw = 1% of viewport width*/
+		font-size: 1.2em;
 	}
 
 	.navbar-brand p {
@@ -149,9 +180,5 @@ body {
 		display: block !important;
 	}
 	/*end header*/
-
-h2 {
-		font-size: 5vw; /*1vw = 1% of viewport width*/
-	}
 
 }
