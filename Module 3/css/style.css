@@ -1,0 +1,147 @@
+body {
+	font-size: 16px;
+	color: #3c6bb7;
+	background-color: #fff;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/*HEADER*/
+#header-nav {
+	background-color: #3c6bb7;
+	border-radius: 0; /*supprime l'angle arrondi du header*/
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1 { /*restaurant name*/
+	font-family: 'Oxygen', serif;
+	color: #ffffff;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px #30343d;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#nav-list {
+	margin-top: 90px;
+}
+
+#nav-list a {
+	color: #16264c;
+	text-align: center;
+	border-bottom: 2px solid #16264c;
+}
+
+#nav-list a:hover {
+	background: #a4bef9;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  	border: 1px solid #E7E7E7;
+}
+
+.navbar-header button.navbar-toggle {
+ 	clear: both;
+ 	margin-top: -55px;
+}
+/*END HEADER*/
+
+
+/*Home page main content*/
+
+#main-content h2 {
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+#sect-chicken, #sect-beef, #sect-sushi {
+	margin-top: 35px;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	background-color: #bbcaed;
+}
+
+
+/*Home page - end main content*/
+
+
+
+/*----------------------------------------------------*/
+
+
+
+/*medium devices only*/
+@media (min-width: 992px)  {
+	/*header*/
+
+	/*end header*/
+
+	/*Home page main content*/
+ 	#sect-chicken, #sect-beef, #sect-sushi {
+		width: 31%;
+	}
+	/*Home page - end main content*/
+
+}
+
+/*Small devices only*/
+@media (min-width: 768px) and (max-width: 991px) {
+	/*header*/
+
+
+	
+/*end header*/
+
+	/*Home page main content*/
+	#sect-chicken, #sect-beef, #sect-sushi {
+		width: 47%;
+	}
+
+}
+
+/*Extra small devices only*/
+@media  (max-width: 767px) {
+	/*header*/
+	.navbar-brand {
+		padding-top: 10px;
+		height: 80px;
+	}
+
+	.navbar-brand h1 {
+		padding-top: 17px;
+		/*font-size: 5vw; 1vw = 1% of viewport width*/
+	}
+
+	#collapsable-nav a { /*collapsed nav menu glyphicon*/
+		font-size: 1.2em;
+	}
+
+	#collapsable-nav a span { /*garde la taille du glyphicon*/
+		font-size: 1em;
+		margin-right: 5px;
+	}
+
+	#nav-list {
+		margin-top: 0;
+		margin-bottom: 0;
+		background-color: #fff;
+		border-top: 2px solid black;
+	}
+	/*end header*/
+
+	/*Home page - end main content*/
+	#home-menu {
+	padding-left: 70px;
+	padding-right: 70px;
+	}	
+}
