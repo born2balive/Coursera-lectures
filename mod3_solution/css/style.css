@@ -87,9 +87,9 @@ body {
 	/*end header*/
 
 	/*Home page main content*/
- #sect-chicken, #sect-beef, #sect-sushi {
+ 	#sect-chicken, #sect-beef, #sect-sushi {
 		width: 31%;
-}
+	}
 	/*Home page - end main content*/
 
 }
@@ -103,9 +103,9 @@ body {
 /*end header*/
 
 	/*Home page main content*/
-#sect-chicken, #sect-beef, #sect-sushi {
+	#sect-chicken, #sect-beef, #sect-sushi {
 		width: 47%;
-}
+	}
 
 }
 
