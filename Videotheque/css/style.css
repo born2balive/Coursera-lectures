@@ -1,21 +1,21 @@
 body {
 	font-size: 16px;
 	color: #fff;
-	background-color: rgb(200,191,231);
+	background-color: #E4EEF8;
 	font-family: 'Oxygen', sans-serif;
 }
 
 /*HEADER*/
 #header-nav {
-	background-color: rgb(128,128,128);
+	background-color: #FFFFFF;
 	border-radius: 0; /*supprime l'angle arrondi du header*/
 	border: 0;
 }
 
 #logo-img {
-	background: url("../images/icone-video-2.png") no-repeat;
-	width: 70px;
-	height: 70px;
+	background: url("../images/videotheque_medium.png") no-repeat;
+	width: 120px;
+	height: 90px;
 	margin: 5px 5px 5px 0;
 }
 
@@ -25,7 +25,7 @@ body {
 
 .navbar-brand h1 { /*restaurant name*/
 	font-family: 'Oxygen', serif;
-	color: rgb(55,55,55);
+	color: #1F4E79;
 	font-size: 1.5em;
 	text-transform: uppercase;
 	font-weight: bold;
@@ -44,12 +44,13 @@ body {
 }
 
 #nav-list a {
-	color: rgb(26,26,26);
+	color: #1F4E79;
 	text-align: center;
 }
 
 #nav-list a:hover {
-	background: rgb(200,191,231);
+	background: #1F4E79;
+	color: #FFFFFF;
 }
 
 #nav-list a span {
@@ -57,7 +58,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid rgb(26,26,26);
+  border: 1px solid #1F4E79;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -68,10 +69,11 @@ body {
 
 /*FOOTER*/
 .panel-footer {
-	margin-top: 30px;
-	padding-top: 35px;
-	padding-bottom: 30px;
-	background-color: #222;
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #FFFFFF;
+	color: #1F4E79;
 	border-top: 0;
 }
 
@@ -103,9 +105,16 @@ body {
   	color: #fff;
   	opacity: .7;
 }
+
 /*large devices only*/
 @media (min-width: 1200px) {
 	/*header*/
+
+	.navbar-brand h1 { /*restaurant name*/
+		margin-top: 10px;
+		margin-left: 10px;
+	}
+
 	.desktop-only {
 		display: block !important;
 	}
@@ -114,12 +123,18 @@ body {
 		display: none !important;
 	}
 	/*end header*/
+
 }
 
 /*medium devices only*/
 @media (min-width: 992px) and (max-width: 1199px) {
 	/*header*/
-	.desktop-only {
+	.navbar-brand h1 { /*restaurant name*/
+		margin-top: 10px;
+		margin-left: 10px;
+	}
+
+		.desktop-only {
 		display: block !important;
 	}
 
@@ -131,7 +146,11 @@ body {
 /*Small devices only*/
 @media (min-width: 768px) and (max-width: 991px) {
 	/*header*/
-	.desktop-only {
+	.navbar-brand h1 { /*restaurant name*/
+		margin-top: 10px;
+	}
+
+		.desktop-only {
 		display: none !important;
 	}
 
@@ -181,4 +200,9 @@ body {
 	}
 	/*end header*/
 
+	/*footer*/
+	.panel-footer {
+		font-size: 2vw;
+	}
+	/*end of footer*/
 }
