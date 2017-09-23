@@ -82,6 +82,7 @@ body {
 }
 /*END OF FOOTER*/
 
+/*HOME PAGE*/
 #mieux-notes, #a-regarder {
 	height: 250px;
 	width: 100%;
@@ -105,6 +106,21 @@ body {
   	color: #fff;
   	opacity: .7;
 }
+/*END OF HOMEPAGE*/
+
+
+/*RECHERCHER*/
+.ChBRechercher {
+	margin-top: 20px;
+}
+
+.ChBRechercher span {
+	color: #1F4E79;
+	/*@font-family-base;*/
+}
+
+/*END OF RECHERCHER */
+
 
 /*large devices only*/
 @media (min-width: 1200px) {
@@ -124,6 +140,10 @@ body {
 	}
 	/*end header*/
 
+	.ChBRechercher div {
+		margin-top: 20px;
+	}
+
 }
 
 /*medium devices only*/
@@ -140,6 +160,10 @@ body {
 
 	.smartphone-only {
 		display: none !important;
+	}
+
+.ChBRechercher div {
+		margin-top: 20px;
 	}
 }
 
@@ -161,7 +185,54 @@ body {
 }
 
 /*Extra small devices only*/
-@media (max-width: 767px) {
+@media (min-width: 481px) and (max-width: 767px) {
+	/*header*/
+	.navbar-brand {
+		padding-top: 10px;
+		height: 45px;
+	}
+
+	.navbar-brand h1 {
+		padding-top: 8px; /*1vw = 1% of viewport width*/
+		font-size: 1.2em;
+	}
+
+	.navbar-brand p {
+		font-size: 0.6em;
+		margin-top: 12px;
+	}
+
+	.navbar-brand p img {
+		height: 20px;
+	}
+
+	#collapsable-nav a { /*collapsed nav menu glyphicon*/
+		font-size: 1.2em;
+	}
+
+	#collapsable-nav a span { /*garde la taille du glyphicon*/
+		font-size: 1em;
+		margin-right: 5px;
+	}
+
+	.desktop-only {
+		display: none !important;
+	}
+
+	.smartphone-only {
+		display: block !important;
+	}
+	/*end header*/
+
+	/*footer*/
+	.panel-footer {
+		font-size: 2vw;
+	}
+	/*end of footer*/
+}
+
+/*Extra extra small devices only*/
+@media (max-width: 480px) {
 	/*header*/
 	.navbar-brand {
 		padding-top: 10px;
