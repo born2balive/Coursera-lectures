@@ -1,13 +1,12 @@
 body {
 	font-size: 16px;
 	color: #fff;
-	background-color: #E4EEF8;
 	font-family: 'Oxygen', sans-serif;
 }
 
 /*HEADER*/
 #header-nav {
-	background-color: #FFFFFF;
+	background-color: #E4EEF8;
 	border-radius: 0; /*supprime l'angle arrondi du header*/
 	border: 0;
 }
@@ -72,7 +71,7 @@ body {
 	margin-top: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: #FFFFFF;
+	background-color: #E4EEF8;
 	color: #1F4E79;
 	border-top: 0;
 }
@@ -122,6 +121,56 @@ body {
 /*END OF RECHERCHER */
 
 
+
+/*AFFICHAGE.HTML*/
+#titre-film {
+	color: #1F4E79;
+	font-size: 2em;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+}
+
+.affiche-container {
+	float: left;
+	margin-right: 20px;
+}
+
+.affiche-contenu {
+	height: 250px;
+}
+
+.contenu-container {
+	margin-bottom: 10px;
+}
+
+.titre-contenu {
+	color: #778899;
+}
+
+.contenu-contenu {
+	color: #1F4E79;
+}
+
+.titre-contenu, .contenu-contenu {
+	font-size: 1em;
+}
+
+#rating-titres-container {
+	margin-top: 30px;
+	color: #1F4E79;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+#synopsis-film {
+	margin-top: 25px;
+}
+/*FIN DE AFFICHAGE.HTML*/
+
+
+
+
 /*large devices only*/
 @media (min-width: 1200px) {
 	/*header*/
@@ -143,7 +192,6 @@ body {
 	.ChBRechercher div {
 		margin-top: 20px;
 	}
-
 }
 
 /*medium devices only*/
@@ -162,9 +210,10 @@ body {
 		display: none !important;
 	}
 
-.ChBRechercher div {
+	.ChBRechercher div {
 		margin-top: 20px;
 	}
+
 }
 
 /*Small devices only*/
@@ -182,6 +231,22 @@ body {
 		display: block !important;
 	}
 	/*end header*/
+
+	.affiche-contenu {
+		height: 220px;
+	}
+
+	.contenu-container {
+		margin-bottom: 5px;
+	}
+
+	.titre-contenu, .contenu-contenu, #rating-titres-container {
+		font-size: 0.9em;
+	}
+
+	#synopsis-film {
+		margin-top: 20px;
+	}
 }
 
 /*Extra small devices only*/
@@ -229,6 +294,22 @@ body {
 		font-size: 2vw;
 	}
 	/*end of footer*/
+
+	.affiche-contenu {
+		height: 180px;
+	}
+
+	.contenu-container {
+		margin-bottom: 3px;
+	}
+
+	.titre-contenu, .contenu-contenu, #rating-titres-container {
+		font-size: 0.8em;
+	}
+
+	#synopsis-film {
+		margin-top: 15px;
+	}
 }
 
 /*Extra extra small devices only*/
@@ -276,4 +357,20 @@ body {
 		font-size: 2vw;
 	}
 	/*end of footer*/
+
+	.affiche-contenu {
+		height: 180px;
+	}
+
+	.contenu-container {
+		margin-bottom: 3px;
+	}
+
+	.titre-contenu, .contenu-contenu, #rating-titres-container {
+		font-size: 0.8em;
+	}
+
+	#synopsis-film {
+		margin-top: 15px;
+	}
 }
