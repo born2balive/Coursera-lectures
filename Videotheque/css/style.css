@@ -156,7 +156,7 @@ body {
 	font-size: 1em;
 }
 
-#rating-titres-container {
+.rating-titres-container {
 	margin-top: 30px;
 	color: #1F4E79;
 	font-weight: bold;
@@ -240,7 +240,7 @@ body {
 		margin-bottom: 5px;
 	}
 
-	.titre-contenu, .contenu-contenu, #rating-titres-container {
+	.titre-contenu, .contenu-contenu, .rating-titres-container {
 		font-size: 0.9em;
 	}
 
@@ -303,7 +303,7 @@ body {
 		margin-bottom: 3px;
 	}
 
-	.titre-contenu, .contenu-contenu, #rating-titres-container {
+	.titre-contenu, .contenu-contenu, .rating-titres-container {
 		font-size: 0.8em;
 	}
 
@@ -366,7 +366,7 @@ body {
 		margin-bottom: 3px;
 	}
 
-	.titre-contenu, .contenu-contenu, #rating-titres-container {
+	.titre-contenu, .contenu-contenu, .rating-titres-container {
 		font-size: 0.8em;
 	}
 
