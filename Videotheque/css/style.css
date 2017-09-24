@@ -1,6 +1,6 @@
 body {
 	font-size: 16px;
-	color: #fff;
+	color: #1F4E79;
 	font-family: 'Oxygen', sans-serif;
 }
 
@@ -118,6 +118,14 @@ body {
 	/*@font-family-base;*/
 }
 
+.listbox-container {
+	margin-top: 20px;
+	font-size: 14px;
+}
+
+.btn-rechercher-container {
+	margin-top: 15px;
+}
 /*END OF RECHERCHER */
 
 
@@ -189,8 +197,12 @@ body {
 	}
 	/*end header*/
 
-	.ChBRechercher div {
+	.ChBRechercher {
 		margin-top: 20px;
+	}
+
+	.btn-recherche-container {
+		margin-top: 15px;
 	}
 }
 
@@ -210,10 +222,13 @@ body {
 		display: none !important;
 	}
 
-	.ChBRechercher div {
+	.ChBRechercher {
 		margin-top: 20px;
 	}
 
+	.btn-recherche-container {
+		margin-top: 15px;
+	}
 }
 
 /*Small devices only*/
@@ -231,6 +246,15 @@ body {
 		display: block !important;
 	}
 	/*end header*/
+
+
+	.ChBRechercher {
+		margin-top: 20px;
+	}
+
+	.btn-recherche-container {
+		margin-top: 15px;
+	}
 
 	.affiche-contenu {
 		height: 180px;
@@ -295,6 +319,10 @@ body {
 	}
 	/*end of footer*/
 
+	.btn-rechercher-container {
+		margin-top: 20px;
+	}
+
 	.affiche-contenu {
 		height: 150px;
 	}
@@ -357,6 +385,14 @@ body {
 		font-size: 2vw;
 	}
 	/*end of footer*/
+
+	.ChBRechercher {
+		margin-top: 20px;
+	}
+
+	.btn-recherche-container {
+		margin-top: 15px;
+	}
 
 	.affiche-contenu {
 		height: 150px;
