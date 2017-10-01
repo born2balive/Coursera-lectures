@@ -109,6 +109,10 @@ body {
 
 
 /*RECHERCHER*/
+..list-group-item {
+	color: #E4EEF8;
+}
+
 .ChBRechercher {
 	margin-top: 20px;
 }
